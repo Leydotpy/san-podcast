@@ -1,1 +1,1 @@
-default_app_config = "api.config.Api"
+default_app_config = "apps.config.Config"
